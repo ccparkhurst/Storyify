@@ -28,7 +28,7 @@ Trello Board
 
 ## Mission Statement
 
-Our app is centered around children and an adult companion building a story through an interactive Angular interface. 
+Storyify is a children’s story building app for parents and teachers to interact with their children and students and introduce them to technology in a fun way
 
 ## Future Development
 
