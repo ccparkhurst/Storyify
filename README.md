@@ -1,5 +1,7 @@
 # Story Book App
 
+Storyify is a children’s story building app for parents and teachers to interact with their children and students and introduce them to technology in a fun way
+
 <a href="https://storyify.herokuapp.com">
 Deployment Link
 </a>
@@ -26,9 +28,15 @@ Trello Board
 * Heroku
 * Passport
 
-## Mission Statement
+## Installation
+1. Fork or clone this repo
+2. Run ```npm install``` to install dependencies
+3. Run ```npm start``` and fire up localhost:3000 in your browser
 
-Storyify is a children’s story building app for parents and teachers to interact with their children and students and introduce them to technology in a fun way
+## Operation
+Create an account and log in. From the landing screen, select 'Add Story' to create a new story. Fill out the form, click submit, and let the story build. You can return to the home screen and edit or delete any of the stories you have created, or create a new story to add to your list. 
+
+## Screenshot
 
 ## Future Development
 
