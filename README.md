@@ -1,4 +1,4 @@
-# Story Book App
+# Storyify
 
 Storyify is a children’s story building app for parents and teachers to interact with their children and students and introduce them to technology in a fun way
 
