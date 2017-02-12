@@ -38,7 +38,7 @@ Create an account and log in. From the landing screen, select 'Add Story' to cre
 
 ## Screenshot
 
-![alt tag](https://raw.githubusercontent.com/ccparkhurst/storyify/master/path/storyify.png)
+![alt tag](https://raw.githubusercontent.com/ccparkhurst/storyify/master/storyify.png)
 
 ## Future Development
 
