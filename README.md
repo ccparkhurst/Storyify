@@ -38,6 +38,8 @@ Create an account and log in. From the landing screen, select 'Add Story' to cre
 
 ## Screenshot
 
+![alt tag](https://raw.githubusercontent.com/ccparkhurst/storyify/master/path/storyify.png)
+
 ## Future Development
 
 * Add an “authors” model so each user can handle multiple authors
