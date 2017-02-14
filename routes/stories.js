@@ -16,9 +16,6 @@ function makeError(res, message, status) {
 // INDEX
 // get all the story and return as JSON data
 router.get('/', function(req, res, next) {
-  // let currentUser = req.user;
-  // console.log(currentUser._id);
-  // console.log(stories._id);
     console.log('about to find some stories...');
     Story.find({user: req.user}).sort('-createdAt')
   .then(function(stories) {
